@@ -1,4 +1,4 @@
-# Limited-Activist-Model
+# Examining the Limited Activist Model
 ## About
 
 The study of political parties is essential to understanding the complex dynamics within a given
@@ -11,3 +11,9 @@ assumptions that went into the creation of the model. We then analyze the author
 and application of this model. Finally, we use a numerical solver to solve the equations and
 reproduce the author’s graphs, adjusting optimized parameters to observe their effects on the
 dynamical system.
+
+## Methodologies 
+We analyzed the specific effects various variables within the Limited Activist Model have on long term political party growth. Created visualizations demonstrating the effects of each variable.
+
+## Technologies Used
+Matlab
