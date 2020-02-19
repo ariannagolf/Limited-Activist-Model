@@ -17,3 +17,6 @@ We analyzed the specific effects various variables within the Limited Activist M
 
 ## Technologies Used
 Matlab
+
+## TODO 
+Curious about how this model can be applied to epidemics with "super spreaders" vs regular infectious spreaders. This model seems particularly suited for the nCOV in terms of a super spreader and reinfection.
